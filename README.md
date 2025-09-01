@@ -10,9 +10,9 @@
 ###
 <table align="center">
   <tr>
-    <td><a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/></a></td>
-    <td><a href="https://discord.gg/yourdiscordlink"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48"/></a></td>
-    <td><a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/></a></td>
+    <td><a href="https://instagram.com/soham23_esz"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/></a></td>
+    <td><a href="https://discord.gg/https://discord.com/channels/v_smo"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48"/></a></td>
+    <td><a href="mailto:sohammaid23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/></a></td>
     <td><a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/></a></td>
   </tr>
 </table>

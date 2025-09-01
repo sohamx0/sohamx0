@@ -24,21 +24,14 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://instagram.com/soham23_esz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="https://discordapp.com/users/v_smo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
-  </a>
-  <a href="mailto:sohammaid23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://linkedin.com/in/your_username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td><a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/></a></td>
+    <td><a href="https://discord.gg/yourdiscordlink"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48"/></a></td>
+    <td><a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/></a></td>
+    <td><a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/></a></td>
+  </tr>
+</table>
 
 ###
 

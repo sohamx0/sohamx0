@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! My name is Soham and I'm a CSE(AI) student • Building practical projects across AI, ML & core CS </h2>
+<h2 align="center"> Hi! My name is Soham — CSE(AI) student building practical AI & ML projects </h2>
 
 ###
 
@@ -18,9 +18,8 @@
 ---
 
 ### 📌 Featured Projects
-> (Add links here — this matters more than stats)
 
-- 🔹 *Project 1* – short one-line description  
+- 🔹 [Crop Health AI](https://github.com/sohamx0/Crop-Health-AI) – Crop disease detection using ML/Computer Vision to analyze plant health.
 - 🔹 *Project 2* – short one-line description  
 - 🔹 *Project 3* – short one-line description  
 

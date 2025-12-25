@@ -20,8 +20,8 @@
 ### 📌 Featured Projects
 
 - 🔹 [Crop Health AI](https://github.com/sohamx0/Crop-Health-AI) – Crop disease detection using ML/Computer Vision to analyze plant health.
-- 🔹 *Project 2* – short one-line description  
-- 🔹 *Project 3* – short one-line description  
+- 🔹 *Project 2* – 
+- 🔹 *Project 3* –
 
 ---
 

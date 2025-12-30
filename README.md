@@ -1,6 +1,9 @@
 <h2 align="center"> Hi! My name is Soham — CSE(AI) student building practical AI & ML projects </h2>
 
 ###
+<p align="center">
+<i>“Everything you don’t know is something you can learn.”</i>
+</p>
 
 ---
 

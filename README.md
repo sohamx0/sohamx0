@@ -1,4 +1,4 @@
-<h2 align="center"> Hi! My name is Soham — CSE(AI) student building practical AI & ML projects </h2>
+<h2 align="center"> Hi! My name is Soham CSE(AI) student building practical AI & ML projects </h2>
 
 ###
 <p align="center">

@@ -23,7 +23,7 @@
 ### 📌 Featured Projects
 
 - 🔹 [Crop Health AI](https://github.com/sohamx0/Crop-Health-AI) – Crop disease detection using ML/Computer Vision to analyze plant health.
-- 🔹 *Project 2* – 
+- 🔹 [Weather-App](https://github.com/sohamx0/Weather-App) – Application displays current weather information for any city using the OpenWeatherMap API.
 - 🔹 *Project 3* –
 
 ---

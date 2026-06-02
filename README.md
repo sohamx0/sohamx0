@@ -1,8 +1,9 @@
-<h2 align="center"> Hi! My name is Soham CSE(AI) student building practical AI & ML projects </h2>
+<h2 align="center">
+Hi, I'm Soham
+</h2>
 
-###
 <p align="center">
-<i>“Everything you don’t know is something you can learn.”</i>
+CSE (AI) Student • Building AI/ML Applications • Exploring Computer Vision & Data Science
 </p>
 
 ---
@@ -13,10 +14,11 @@
 
 ---
 
-### 🧠 Tech Stack
-- **Languages:** Python, C++, HTML/CSS  
-- **Core:** NumPy, Pandas, Matplotlib
-- **Tools:** Git, GitHub, VS Code
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nextjs,flask,tensorflow,tailwind,git,github" />
+</p>
 
 ---
 
@@ -24,7 +26,6 @@
 
 - 🔹 [Crop Health AI](https://github.com/sohamx0/Crop-Health-AI) – Crop disease detection using ML/Computer Vision to analyze plant health.
 - 🔹 [Weather-App](https://github.com/sohamx0/Weather-App) – Application displays current weather information for any city using the OpenWeatherMap API.
-- 🔹 *Project 3* –
 
 ---
 

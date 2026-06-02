@@ -28,13 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sohamx0&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect with me
 <p align="center">
 <table align="center">

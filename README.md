@@ -29,15 +29,18 @@ CSE (AI) Student • Building AI/ML Applications • Exploring Computer Vision &
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect With Me
+
 <p align="center">
-<table align="center">
-  <tr>
-    <td><a href="https://instagram.com/soham23_esz"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/></a></td>
-    <td><a href="mailto:sohammaid23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/></a></td>
-    <td><a href="https://www.linkedin.com/in/soham-maid-6a738232a"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/></a></td>
-  </tr>
-</table>
+  <a href="https://www.linkedin.com/in/soham-maid-6a738232a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sohammaid23@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://instagram.com/soham23_esz">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---

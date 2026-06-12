@@ -1,19 +1,11 @@
-<h2 align="center">
-Hi, I'm Soham
-</h2>
+<h2 align="center"> Hi, I'm Soham </h2>
 
 <p align="center">
-CSE (AI) Student • Building AI/ML Applications • Exploring Computer Vision & Data Science
+CSE (AI) Student • Building AI/ML Applications • Exploring Learning Opportunities
+  
 </p>
 
 ---
-
-### 🚀 What I’m doing
-- Learning **AI, ML & Data Science** the right way — by building
-- Slowly leveling up in **DSA + system thinking**
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -26,8 +18,8 @@ CSE (AI) Student • Building AI/ML Applications • Exploring Computer Vision &
 
 - 🔹 [Crop Health AI](https://github.com/sohamx0/Crop-Health-AI) – Crop disease detection using ML/Computer Vision to analyze plant health.
 - 🔹 [Weather-App](https://github.com/sohamx0/Weather-App) – Application displays current weather information for any city using the OpenWeatherMap API.
-
 ---
+
 
 ### 🌐 Connect With Me
 
@@ -43,13 +35,11 @@ CSE (AI) Student • Building AI/ML Applications • Exploring Computer Vision &
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Less talk. More building.</i>
 </p>
 
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sohamx0/sohamx0/output/snake.svg" alt="Snake animation" />

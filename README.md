@@ -5,23 +5,20 @@ CSE (AI) Student • Building AI/ML Applications • Exploring Learning Opportun
   
 </p>
 
----
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nextjs,flask,tensorflow,tailwind,git,github" />
 </p>
 
----
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 - 🔹 [Crop Health AI](https://github.com/sohamx0/Crop-Health-AI) – Crop disease detection using ML/Computer Vision to analyze plant health.
 - 🔹 [Weather-App](https://github.com/sohamx0/Weather-App) – Application displays current weather information for any city using the OpenWeatherMap API.
----
 
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soham-maid-6a738232a">

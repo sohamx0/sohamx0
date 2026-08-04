@@ -5,7 +5,7 @@ CSE (AI) Student • Building AI/ML Applications • Exploring Learning Opportun
   
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nextjs,flask,tensorflow,tailwind,git,github" />

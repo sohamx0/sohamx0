@@ -12,13 +12,13 @@ CSE (AI) Student • Building AI/ML Applications • Exploring Learning Opportun
 </p>
 
 
-## 📌 Featured Projects
+## Featured Projects
 
 - 🔹 [Crop Health AI](https://github.com/sohamx0/Crop-Health-AI) – Crop disease detection using ML/Computer Vision to analyze plant health.
 - 🔹 [Weather-App](https://github.com/sohamx0/Weather-App) – Application displays current weather information for any city using the OpenWeatherMap API.
+- 🔹 [Portfolio](https://portfolio-sm-beta.vercel.app/)  - Personal Portfolio
 
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soham-maid-6a738232a">
